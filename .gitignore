@@ -68,3 +68,8 @@ npm-debug.log
 
 # Nuxt generate
 dist
+
+# jetbrain
+.idea
+.idea/
+.idea/inspectionProfiles/
